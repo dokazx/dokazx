@@ -2,7 +2,7 @@
 
 Sou apaixonado por tecnologia e programação.  
 Nos últimos meses concluí os cursos da **Harvard (CS50)** e do **edX**, que me deram uma base sólida em ciência da computação, algoritmos e desenvolvimento de software.  
-Estou iniciando minha jornada como desenvolvedor e busco sempre aprender e crescer na área. 🚀
+Estou iniciando minha jornada como desenvolvedor e busco sempre aprender e crescer na área.
 
 ---
 
