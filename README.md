@@ -34,14 +34,6 @@ Estou iniciando minha jornada como desenvolvedor e busco sempre aprender e cresc
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianokleber&show_icons=true&theme=radical" alt="Adriano's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianokleber&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ### 📫 Como me encontrar
 - 💼 [LinkedIn](https://linkedin.com/in/SEU-LINKEDIN)  
 - 📧 [E-mail](mailto:SEUEMAIL@EMAIL.COM)  
