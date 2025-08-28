@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Adriano Kleber!
+# 👋 Olá, eu sou Adriano Cleber!
 
 Sou apaixonado por tecnologia e programação.  
 Nos últimos meses concluí os cursos da **Harvard (CS50)** e do **edX**, que me deram uma base sólida em ciência da computação, algoritmos e desenvolvimento de software.  
